@@ -69,7 +69,7 @@ int main(int argc, char* argv[]) {
 	vector< vector<double> > m4 {
 		{1, 1}
 	};
-	vector<double> s2 {1};
-	test(m2, s2, 4);
+	vector<double> s4 {1};
+	test(m4, s4, 4);
 
 }
